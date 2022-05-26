@@ -1,6 +1,6 @@
 # Spring Boot Camel REST 3scale QuickStart
 
-This example demonstrates how to use Camel's REST DSL to expose a RESTful API and expose it to 3scale.
+This example demonstrates how to use Camel's REST DSL to expose a RESTful API and expose it to 3scale..
 
 This example relies on the [Fabric8 Maven plugin](https://maven.fabric8.io) for its build configuration
 and uses the [fabric8 Java base image](https://github.com/fabric8io/base-images#java-base-images).
